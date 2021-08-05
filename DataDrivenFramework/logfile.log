@@ -1,0 +1,46 @@
+2015-08-29 16:57:40,124 INFO  [Log] **************************************************************************************** 
+2015-08-29 16:57:40,124 INFO  [Log] **************************************************************************************** 
+2015-08-29 16:57:40,124 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-29 16:57:40,124 INFO  [Log] **************************************************************************************** 
+2015-08-29 16:57:40,125 INFO  [Log] **************************************************************************************** 
+2015-08-29 16:57:40,848 INFO  [Log]  Excel sheet opened 
+2015-08-29 16:57:49,394 INFO  [Log] New driver instantiated 
+2015-08-29 16:57:54,397 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-29 16:58:06,709 INFO  [Log] Web application launched 
+2015-08-29 16:58:06,775 INFO  [Log] Username picked from Excel is testuser_1 
+2015-08-29 16:58:06,775 INFO  [Log] Password picked from Excel is Test@123 
+2015-08-29 16:58:06,852 INFO  [Log] My Account link element found 
+2015-08-29 16:58:07,020 INFO  [Log] Click action performed on My Account link 
+2015-08-29 16:58:11,112 INFO  [Log] Username text box found 
+2015-08-29 16:58:11,297 INFO  [Log] Username entered in the Username text box 
+2015-08-29 16:58:11,320 INFO  [Log] Password text box found 
+2015-08-29 16:58:12,024 INFO  [Log] Password entered in the Password text box 
+2015-08-29 16:58:12,080 INFO  [Log] Submit button found 
+2015-08-29 16:58:12,371 INFO  [Log] Click action performed on Submit button 
+2015-08-29 17:02:33,976 INFO  [Log] **************************************************************************************** 
+2015-08-29 17:02:33,993 INFO  [Log] **************************************************************************************** 
+2015-08-29 17:02:33,993 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2015-08-29 17:02:33,993 INFO  [Log] **************************************************************************************** 
+2015-08-29 17:02:33,993 INFO  [Log] **************************************************************************************** 
+2015-08-29 17:02:34,772 INFO  [Log]  Excel sheet opened 
+2015-08-29 17:02:42,622 INFO  [Log] New driver instantiated 
+2015-08-29 17:02:49,746 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2015-08-29 17:03:04,167 INFO  [Log] Web application launched 
+2015-08-29 17:03:04,185 INFO  [Log] Username picked from Excel is nikunj23190 
+2015-08-29 17:03:04,185 INFO  [Log] Password picked from Excel is Fume@729 
+2015-08-29 17:03:04,304 INFO  [Log] My Account link element found 
+2015-08-29 17:03:04,445 INFO  [Log] Click action performed on My Account link 
+2015-08-29 17:03:07,484 INFO  [Log] Username text box found 
+2015-08-29 17:03:07,579 INFO  [Log] Username entered in the Username text box 
+2015-08-29 17:03:07,601 INFO  [Log] Password text box found 
+2015-08-29 17:03:08,119 INFO  [Log] Password entered in the Password text box 
+2015-08-29 17:03:08,140 INFO  [Log] Submit button found 
+2015-08-29 17:03:08,290 INFO  [Log] Click action performed on Submit button 
+2015-08-29 17:03:11,905 INFO  [Log] Log Out link element found 
+2015-08-29 17:03:13,148 INFO  [Log] Click action is perfomred on Log Out link 
+2015-08-29 17:03:14,302 INFO  [Log] Browser closed 
+2015-08-29 17:03:14,719 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2015-08-29 17:03:14,719 INFO  [Log] X 
+2015-08-29 17:03:14,719 INFO  [Log] X 
+2015-08-29 17:03:14,719 INFO  [Log] X 
+2015-08-29 17:03:14,719 INFO  [Log] X 
